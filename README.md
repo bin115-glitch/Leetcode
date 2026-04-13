@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/bin115-glitch/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/bin115-glitch/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/bin115-glitch/Leetcode/tree/master/0643-maximum-average-subarray-i) |
+| [0994-rotting-oranges](https://github.com/bin115-glitch/Leetcode/tree/master/0994-rotting-oranges) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bin115-glitch/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/bin115-glitch/Leetcode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 ## Two Pointers
@@ -59,4 +60,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/bin115-glitch/Leetcode/tree/master/0383-ransom-note) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/bin115-glitch/Leetcode/tree/master/0994-rotting-oranges) |
+## Matrix
+|  |
+| ------- |
+| [0994-rotting-oranges](https://github.com/bin115-glitch/Leetcode/tree/master/0994-rotting-oranges) |
 <!---LeetCode Topics End-->
