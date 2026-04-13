@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/bin115-glitch/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/bin115-glitch/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0463-island-perimeter](https://github.com/bin115-glitch/Leetcode/tree/master/0463-island-perimeter) |
 | [0643-maximum-average-subarray-i](https://github.com/bin115-glitch/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0994-rotting-oranges](https://github.com/bin115-glitch/Leetcode/tree/master/0994-rotting-oranges) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/bin115-glitch/Leetcode/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -63,9 +64,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/bin115-glitch/Leetcode/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/bin115-glitch/Leetcode/tree/master/0994-rotting-oranges) |
 ## Matrix
 |  |
 | ------- |
+| [0463-island-perimeter](https://github.com/bin115-glitch/Leetcode/tree/master/0463-island-perimeter) |
 | [0994-rotting-oranges](https://github.com/bin115-glitch/Leetcode/tree/master/0994-rotting-oranges) |
+## Depth-First Search
+|  |
+| ------- |
+| [0463-island-perimeter](https://github.com/bin115-glitch/Leetcode/tree/master/0463-island-perimeter) |
 <!---LeetCode Topics End-->
